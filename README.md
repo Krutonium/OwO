@@ -12,5 +12,15 @@ __        ___           _    _        _   _     _
    \_/\_/  |_| |_|\__,_|\__|   |___/ \___|_| |_|_|/___/
 ```
 
-Requires DotNetCore 2.0 or better.  
+Dotnet Core:
+
 `dotnet restore && dotnet run`
+
+Java:
+
+C:
+
+C++:
+
+Bash:
+`./OwO.sh`  
