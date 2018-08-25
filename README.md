@@ -3,7 +3,7 @@
 ### What's This?
 
 ```
- krutonium@HpArch  ~  OwO
+ krutonium@Arch  ~  OwO
                  *Notices Bulge*
 __        ___           _    _        _   _     _      
 \ \      / / |__   __ _| |_ ( ) ___  | |_| |__ (_) ___
@@ -12,7 +12,7 @@ __        ___           _    _        _   _     _
    \_/\_/  |_| |_|\__,_|\__|   |___/ \___|_| |_|_|/___/
 ```
 
-Dotnet Core:
+Dotnet Core/CSharp:
 
 `dotnet restore && dotnet run`
 
@@ -27,3 +27,6 @@ Haskell:
 
 Bash:
 `./OwO.sh`  
+
+Rust:
+`cargo run`
