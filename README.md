@@ -36,3 +36,4 @@ Swift
 
 Nim
 `nim compile --run OwO.nim`
+Or `nimble run`
