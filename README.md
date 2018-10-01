@@ -32,6 +32,9 @@ C++:
 `g++ OwO.cpp -o OwO`
 `./OwO`
 
+Go:
+`go run OwO.go`
+
 Haskell:
 `runghc OwO.hs`
 
