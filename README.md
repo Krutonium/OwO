@@ -35,6 +35,9 @@ C++:
 Haskell:
 `runghc OwO.hs`
 
+Lisp:
+`clisp OwO.lisp`
+
 Bash:
 `chmod +x OwO.sh`
 `./OwO.sh`
