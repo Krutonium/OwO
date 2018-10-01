@@ -22,6 +22,9 @@ C:
 
 C++:
 
+Go:
+`go run OwO.go`
+
 Haskell:
 `runghc OwO.hs`
 
