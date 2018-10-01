@@ -1,0 +1,5 @@
+RESULT = OwO
+SOURCES = OwO.ml
+LIBS = 
+OCAMLMAKEFILE = OCamlMakefile
+include $(OCAMLMAKEFILE)
