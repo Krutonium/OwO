@@ -47,3 +47,9 @@ Swift
 
 Nim
 `nim compile --run OwO.nim`
+
+Python
+if you have installed python 2.x and 3.x on same machine, maybe you sure run like this:
+  `python3 main.py`
+else run like normally:
+  `python main.py`
