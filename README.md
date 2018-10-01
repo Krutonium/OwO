@@ -30,3 +30,6 @@ Bash:
 
 Rust:
 `cargo run`
+
+Swift
+`swift OwO.swift`
