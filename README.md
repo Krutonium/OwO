@@ -1,32 +1,43 @@
 # OwO
-## *Notices Bulge*
+
+## _Notices Bulge_
+
 ### What's This?
 
 ```
  krutonium@Arch  ~  OwO
                  *Notices Bulge*
-__        ___           _    _        _   _     _      
+__        ___           _    _        _   _     _
 \ \      / / |__   __ _| |_ ( ) ___  | |_| |__ (_) ___
  \ \ /\ / /| '_ \ / _\`| __|// / __| | __| '_ \| |/ __|
   \ V  V / | | | | (_| | |_    \__ \ | |_| | | | |\__ \
    \_/\_/  |_| |_|\__,_|\__|   |___/ \___|_| |_|_|/___/
 ```
 
+### How to run
+
 Dotnet Core/CSharp:
 
 `dotnet restore && dotnet run`
 
 Java:
+`javac OwO.java`
+`java OwO`
 
 C:
+`gcc OwO.c -o OwO`
+`./OwO`
 
 C++:
+`g++ OwO.cpp -o OwO`
+`./OwO`
 
 Haskell:
 `runghc OwO.hs`
 
 Bash:
-`./OwO.sh`  
+`chmod +x OwO.sh`
+`./OwO.sh`
 
 Rust:
 `cargo run`
