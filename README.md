@@ -33,3 +33,6 @@ Rust:
 
 Swift
 `swift OwO.swift`
+
+Nim
+`nim compile --run OwO.nim`
