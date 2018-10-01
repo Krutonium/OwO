@@ -45,6 +45,9 @@ Bash:
 `chmod +x OwO.sh`
 `./OwO.sh`
 
+Ruby:
+`ruby OwO.rb`
+
 Rust:
 `cargo run`
 
