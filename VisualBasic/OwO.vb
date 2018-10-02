@@ -1,4 +1,3 @@
-
 Module UwU
     Sub Main()
         Console.WriteLine("                 *Notices Bulge*")
