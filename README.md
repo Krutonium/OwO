@@ -72,3 +72,10 @@ JScript: `cscript OwO.js`
 
 Kotlin
 `kotlinc OwO.kt`
+
+PHP:
+`php OwO.php`
+
+Emojicode:
+`emojicodec OwO.emojic`
+`./OwO`
