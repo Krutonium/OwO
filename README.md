@@ -68,6 +68,4 @@ VisualBasic
 `vbc ./OwO.vb`
 `./OwO`
 
-JScript
-
-`cscript OwO.js`
+JScript: `cscript OwO.js`
