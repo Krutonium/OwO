@@ -55,4 +55,5 @@ else run like normally:
   `python main.py`
 
 VisualBasic
-`cscript ./OwO.vbs`
+`vbc ./OwO.vb`
+`./OwO`
