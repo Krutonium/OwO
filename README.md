@@ -53,3 +53,6 @@ if you have installed python 2.x and 3.x on same machine, maybe you sure run lik
   `python3 main.py`
 else run like normally:
   `python main.py`
+
+VisualBasic
+`cscript ./OwO.vbs`
