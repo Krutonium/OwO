@@ -1,6 +1,6 @@
-program Owo
+program Owo;
 begin
-writeln ('                 *Notices Bulge*')
+writeln ('                 *Notices Bulge*');
 writeln ('__        ___           _    _        _   _     _       ');      
 writeln ('\ \      / / |__   __ _| |_ ( ) ___  | |_| |__ (_) ___  ');  
 writeln (' \ \ /\ / /| '_ \ / _\`| __|// / __| | __| '_ \| |/ __| '); 
