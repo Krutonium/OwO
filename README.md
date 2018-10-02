@@ -69,3 +69,6 @@ VisualBasic
 `./OwO`
 
 JScript: `cscript OwO.js`
+
+Kotlin
+`kotlinc OwO.kt`
