@@ -70,6 +70,10 @@ VisualBasic
 
 JScript: `cscript OwO.js`
 
+PHP:
+`php OwO.php`
+
 Emojicode:
 `emojicodec OwO.emojic`
 `./OwO`
+
