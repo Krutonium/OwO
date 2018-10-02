@@ -69,3 +69,7 @@ VisualBasic
 `./OwO`
 
 JScript: `cscript OwO.js`
+
+Emojicode:
+`emojicodec OwO.emojic`
+`./OwO`
