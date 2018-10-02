@@ -67,3 +67,5 @@ else run like normally:
 VisualBasic
 `vbc ./OwO.vb`
 `./OwO`
+
+JScript: `cscript OwO.js`
