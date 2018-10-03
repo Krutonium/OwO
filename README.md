@@ -18,7 +18,7 @@ __        ___           _    _        _   _     _
 
 ### How To Run
 
-### Bash
+#### Bash
 `chmod +x OwO.sh && ./OwO.sh`
 
 #### C
@@ -46,7 +46,7 @@ __        ___           _    _        _   _     _
 `cscript OwO.js`
 
 #### Kotlin
-`kotlinc OwO.kt`
+`kotlinc OwO.kt -include-runtime -d OwO.jar && java -jar OwO.jar`
 
 #### Lisp
 `clisp OwO.lisp`
