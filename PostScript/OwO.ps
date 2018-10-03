@@ -1,0 +1,16 @@
+%!PS
+
+% parameters for text location and size
+/tm 500 def /lm 100 def /pt 12 def /pd 2 def
+
+/newline { tm pt pd add sub /tm exch def lm tm moveto } def
+/Courier findfont pt scalefont setfont
+lm tm moveto
+(                 *Notices Bulge*) show newline
+(__        ___           _    _        _   _     _) show newline
+(\\ \\      / / |__   __ _| |_ \( \) ___  | |_| |__ \(_\) ___) show newline
+( \\ \\ /\\ / /| '_ \\ / _\\`| __|// / __| | __| '_ \\| |/ __|) show newline
+(  \\ V  V / | | | | \(_| | |_    \\__ \\ | |_| | | | |\\__ \\) show newline
+(   \\_/\\_/  |_| |_|\\__,_|\\__|   |___/ \\___|_| |_|_|/___/) show newline
+
+showpage
