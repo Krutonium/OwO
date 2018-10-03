@@ -66,6 +66,9 @@ __        ___           _    _        _   _     _
 #### PHP
 `php OwO.php`
 
+#### PowerShell
+`powershell OwO.ps1`
+
 #### Python (v2.x and v3.x respectively)
 `python main.py` or `python3 main.py`
 
