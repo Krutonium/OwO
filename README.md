@@ -59,7 +59,6 @@ __        ___           _    _        _   _     _
 
 #### PHP
 `php OwO.php`
-`php owo.php`
 
 #### Python (v2.x and v3.x respectively)
 `python main.py` or `python3 main.py`
@@ -75,8 +74,6 @@ __        ___           _    _        _   _     _
 
 #### TCL
 `tclsh OwO.tcl`
-
-JScript: `cscript OwO.js`
 
 #### VisualBasic
 `vbc ./OwO.vb && ./OwO`
