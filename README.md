@@ -51,6 +51,9 @@ __        ___           _    _        _   _     _
 #### Lisp
 `clisp OwO.lisp`
 
+#### Lua
+`lua OwO.lua`
+
 #### Nim
 `nim compile --run OwO.nim` or `nimble run`
 
