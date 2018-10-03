@@ -42,6 +42,9 @@ __        ___           _    _        _   _     _
 #### Java
 `javac OwO.java && java OwO`
 
+#### JavaScript (NodeJS)
+`node OwO.js`
+
 #### JScript
 `cscript OwO.js`
 
