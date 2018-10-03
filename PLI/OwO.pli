@@ -1,0 +1,7 @@
+ OwO: proc options (main);
+   put list ("                 *Notices Bulge*");
+   put skip list ("\ \      / / |__   __ _| |_ ( ) ___  | |_| |__ (_) ___ ");
+   put skip list (" \ \ /\ / /| '_ \ / _\`| __|// / __| | __| '_ \| |/ __|");
+   put skip list ("  \ V  V / | | | | (_| | |_    \__ \ | |_| | | | |\__ \");
+   put skip list ("   \_/\_/  |_| |_|\__,_|\__|   |___/ \___|_| |_|_|/___/");
+ end OwO;
