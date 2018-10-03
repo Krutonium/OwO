@@ -82,3 +82,6 @@ Perl:
 Emojicode:
 `emojicodec OwO.emojic`
 `./OwO`
+
+Tcl:
+`tclsh OwO.tcl`
