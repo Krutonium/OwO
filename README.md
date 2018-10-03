@@ -88,5 +88,8 @@ __        ___           _    _        _   _     _
 `vbc ./OwO.vb && ./OwO`
 
 #### BASIC
-
 `fbc OwO.bas`
+
+#### R
+`Rscript OwO.R` Linux/Unix
+`R.exe OwO.R` Windows
