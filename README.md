@@ -76,6 +76,9 @@ Kotlin
 PHP:
 `php OwO.php`
 
+Perl:
+`perl OwO.pl`
+
 Emojicode:
 `emojicodec OwO.emojic`
 `./OwO`
