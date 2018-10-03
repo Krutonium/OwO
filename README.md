@@ -86,3 +86,7 @@ __        ___           _    _        _   _     _
 
 #### VisualBasic
 `vbc ./OwO.vb && ./OwO`
+
+#### BASIC
+
+`fbc OwO.bas`
