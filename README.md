@@ -14,61 +14,69 @@ __        ___           _    _        _   _     _
    \_/\_/  |_| |_|\__,_|\__|   |___/ \___|_| |_|_|/___/
 ```
 
-### How to run
+---
 
-Dotnet Core/CSharp:
+### How To Run
 
+#### Bash
+`chmod +x OwO.sh && ./OwO.sh`
+
+#### C
+`gcc OwO.c -o OwO && ./OwO`
+
+#### C++
+`g++ OwO.cpp -o OwO && ./OwO`
+
+#### C#/.NET
 `dotnet restore && dotnet run`
 
-Java:
-`javac OwO.java`
-`java OwO`
+#### Emojicode
+`emojicodec OwO.emojic && ./OwO`
 
-C:
-`gcc OwO.c -o OwO`
-`./OwO`
-
-C++:
-`g++ OwO.cpp -o OwO`
-`./OwO`
-
-Go:
+#### Go
 `go run OwO.go`
 
-Haskell:
+#### Haskell
 `runghc OwO.hs`
 
-Lisp:
+#### Java
+`javac OwO.java && java OwO`
+
+#### JScript
+`cscript OwO.js`
+
+#### Kotlin
+`kotlinc OwO.kt -include-runtime -d OwO.jar && java -jar OwO.jar`
+
+#### Lisp
 `clisp OwO.lisp`
 
-Bash:
-`chmod +x OwO.sh`
-`./OwO.sh`
+#### Nim
+`nim compile --run OwO.nim` or `nimble run`
 
-Ruby:
+#### Perl
+`perl OwO.pl`
+
+#### PHP
+`php OwO.php`
+`php owo.php`
+
+#### Python (v2.x and v3.x respectively)
+`python main.py` or `python3 main.py`
+
+#### Ruby
 `ruby OwO.rb`
 
-Rust:
+#### Rust
 `cargo run`
 
-Swift
+#### Swift
 `swift OwO.swift`
 
-Nim
-`nim compile --run OwO.nim`
-Or `nimble run`
-
-Python
-if you have installed python 2.x and 3.x on same machine, maybe you sure run like this:
-  `python3 main.py`
-else run like normally:
-  `python main.py`
-
-VisualBasic
-`vbc ./OwO.vb`
-`./OwO`
+#### TCL
+`tclsh OwO.tcl`
 
 JScript: `cscript OwO.js`
 
-PHP:
-`php OwO.php`
+#### VisualBasic
+`vbc ./OwO.vb && ./OwO`
