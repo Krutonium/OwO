@@ -19,7 +19,7 @@ __        ___           _    _        _   _     _
 ### How To Run
 
 #### Bash
-`chmod +x OwO.sh && ./OwO.sh
+`chmod +x OwO.sh && ./OwO.sh`
 
 #### Batch
 `CALL OwO.bat`
