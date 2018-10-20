@@ -54,6 +54,9 @@ __        ___           _    _        _   _     _
 #### Kotlin
 `kotlinc OwO.kt -include-runtime -d OwO.jar && java -jar OwO.jar`
 
+#### LaTeX
+`pdflatex OwO.tex` or `latex OwO.tex` or `xelatex OwO.tex`
+
 #### Lisp
 `clisp OwO.lisp`
 
