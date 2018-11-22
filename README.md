@@ -42,6 +42,9 @@ __        ___           _    _        _   _     _
 #### Haskell
 `runghc OwO.hs`
 
+#### HTML
+`firefox OwO.html`
+
 #### Java
 `javac OwO.java && java OwO`
 
