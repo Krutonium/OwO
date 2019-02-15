@@ -46,7 +46,7 @@ __        ___           _    _        _   _     _
 `firefox OwO.html`
 
 #### Java
-`javac OwO.java && java OwO`
+`java OwO.java`
 
 #### JavaScript (NodeJS)
 `node OwO.js`
