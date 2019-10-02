@@ -102,3 +102,7 @@ __        ___           _    _        _   _     _
 #### R
 `Rscript OwO.R` Linux/Unix
 `R.exe OwO.R` Windows
+
+#### WhiteSpaces
+`Replace space with 1 and tab with 0`
+`Then decode binary`
