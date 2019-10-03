@@ -33,6 +33,9 @@ __        ___           _    _        _   _     _
 #### C#/.NET
 `dotnet restore && dotnet run`
 
+#### Dart
+`dart OwO.dart`
+
 #### Emojicode
 `emojicodec OwO.emojic && ./OwO`
 
@@ -92,6 +95,9 @@ __        ___           _    _        _   _     _
 
 #### TCL
 `tclsh OwO.tcl`
+
+#### TypeScript
+`tsc OwO.ts | node OwO.ts`
 
 #### VisualBasic
 `vbc ./OwO.vb && ./OwO`
