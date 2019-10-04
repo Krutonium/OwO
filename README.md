@@ -36,6 +36,9 @@ __        ___           _    _        _   _     _
 #### Dart
 `dart OwO.dart`
 
+#### Elisp
+`emacs -q --script OwO.el`
+
 #### Emojicode
 `emojicodec OwO.emojic && ./OwO`
 
