@@ -112,3 +112,6 @@ __        ___           _    _        _   _     _
 #### WhiteSpaces
 `Replace space with 1 and tab with 0`
 `Then decode binary`
+
+#### V
+`v run OwO.v`
