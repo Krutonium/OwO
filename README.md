@@ -102,6 +102,9 @@ __        ___           _    _        _   _     _
 #### VisualBasic
 `vbc ./OwO.vb && ./OwO`
 
+#### VBScript
+`cscript OwO.vbs`
+
 #### BASIC
 `fbc OwO.bas`
 
