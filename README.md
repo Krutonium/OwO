@@ -36,6 +36,9 @@ __        ___           _    _        _   _     _
 #### C#/.NET
 `dotnet restore && dotnet run`
 
+#### D
+`dmd OwO.d && ./OwO`
+
 #### Dart
 `dart OwO.dart`
 
