@@ -18,6 +18,9 @@ __        ___           _    _        _   _     _
 
 ### How To Run
 
+#### BASIC
+`fbc OwO.bas`
+
 #### Bash
 `chmod +x OwO.sh && ./OwO.sh`
 
@@ -75,6 +78,9 @@ __        ___           _    _        _   _     _
 #### Nim
 `nim compile --run OwO.nim` or `nimble run`
 
+#### OCaml
+`ocaml OwO.ml`
+
 #### Perl
 `perl OwO.pl`
 
@@ -86,6 +92,10 @@ __        ___           _    _        _   _     _
 
 #### Python (v2.x and v3.x respectively)
 `python main.py` or `python3 main.py`
+
+#### R
+`Rscript OwO.R` Linux/Unix
+`R.exe OwO.R` Windows
 
 #### Ruby
 `ruby OwO.rb`
@@ -102,22 +112,15 @@ __        ___           _    _        _   _     _
 #### TypeScript
 `tsc OwO.ts | node OwO.ts`
 
-#### VisualBasic
-`vbc ./OwO.vb && ./OwO`
+#### V
+`v run OwO.v`
 
 #### VBScript
 `cscript OwO.vbs`
 
-#### BASIC
-`fbc OwO.bas`
-
-#### R
-`Rscript OwO.R` Linux/Unix
-`R.exe OwO.R` Windows
+#### VisualBasic
+`vbc ./OwO.vb && ./OwO`
 
 #### WhiteSpaces
 `Replace space with 1 and tab with 0`
 `Then decode binary`
-
-#### V
-`v run OwO.v`
