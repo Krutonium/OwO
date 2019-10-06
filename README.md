@@ -69,6 +69,9 @@ __        ___           _    _        _   _     _
 #### Lisp
 `clisp OwO.lisp`
 
+#### LOLCODE
+`lci OwO.lol`
+
 #### Lua
 `lua OwO.lua`
 
