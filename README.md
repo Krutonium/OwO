@@ -75,6 +75,9 @@ __        ___           _    _        _   _     _
 #### Lua
 `lua OwO.lua`
 
+#### Malbolge
+`malbolge OwO.mal`
+
 #### Nim
 `nim compile --run OwO.nim` or `nimble run`
 
