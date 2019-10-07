@@ -112,6 +112,9 @@ __        ___           _    _        _   _     _
 #### Rust
 `cargo run`
 
+#### Slashes
+Find an interpreter on [here](https://codegolf.stackexchange.com/questions/37014/interpret-pronounced-slashes) and run it
+
 #### Swift
 `swift OwO.swift`
 
