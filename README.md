@@ -48,6 +48,9 @@ __        ___           _    _        _   _     _
 #### Emojicode
 `emojicodec OwO.emojic && ./OwO`
 
+#### Fetlang
+`fetlang OwO.fet`
+
 #### Go
 `go run OwO.go`
 
