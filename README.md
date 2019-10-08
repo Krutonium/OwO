@@ -27,6 +27,13 @@ __        ___           _    _        _   _     _
 #### Batch
 `CALL OwO.bat`
 
+#### Brainfuck
+```bash
+npm install --g node-brainfuck-compiler
+brainfuck-compiler -i Brainfuck/OwO.bf -o Brainfuck/OwO-compiled.js && node Brainfuck/OwO-compiled.js
+```
+Alternatively, [Try it online!](https://tio.run/##vVRbCgIxDDxQaU4gvcjihwqCCH4Inn/dtmk6faS7i48i0s0k6eR5fp5uj@vrcp9ns5zJOsPncHRUHyOHrLVB2astN7vc/VXAdPi@ACRaUeA/47c3MeLNRIQhqjxR@EWeAXdAKr6QXLJPjEQElnpwqVHiKjACdSNA@hHEBKUklI5Ezq4aMDjQ5Ows6YhWkzLMFgAgbj0h3d4L4Ad7KTVJLbJ6yez@x/dbdPlO/t93cbDOcxOS2yde1jj71wqrybGmeQA1Da0bnJ8grGI2lwKwgjwgAW5gVr6bCXOJ1dJhymoV@YzNuNrlI1963VdpfJCmLQwgyg3BaF2lFsmZ/oLxNgNsxyYZJnavXJm4z713thFVWauGf2VQf7OFviXfENMk@S07qUlK7PhszpsR5Ngh393G48iEAe@ZRG/NTuEx5E5KvE0L0R/i7yCwR3IakPQ8vwE "brainfuck – Try It Online")
+
 #### C
 `gcc OwO.c -o OwO && ./OwO`
 
