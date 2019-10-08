@@ -36,6 +36,9 @@ __        ___           _    _        _   _     _
 #### C#/.NET
 `dotnet restore && dotnet run`
 
+#### Crystal
+`crystal OwO.cr`
+
 #### D
 `dmd OwO.d && ./OwO`
 
@@ -84,6 +87,9 @@ __        ___           _    _        _   _     _
 #### Malbolge
 `malbolge OwO.mal`
 
+#### ModiScript
+`MODI OwO.CHAI`
+
 #### Nim
 `nim compile --run OwO.nim` or `nimble run`
 
@@ -127,6 +133,9 @@ Find an interpreter on [here](https://codegolf.stackexchange.com/questions/37014
 #### V
 `v run OwO.v`
 
+#### Vala
+`valac OwO.vala && ./OwO`
+
 #### VBScript
 `cscript OwO.vbs`
 
@@ -139,3 +148,6 @@ Find an interpreter on [here](https://codegolf.stackexchange.com/questions/37014
 
 #### Terraform
 `terraform init && terraform apply`
+
+#### Zsh
+`chmod +x OwO.zsh && ./OwO.zsh`
