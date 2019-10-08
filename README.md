@@ -127,6 +127,9 @@ Find an interpreter on [here](https://codegolf.stackexchange.com/questions/37014
 #### V
 `v run OwO.v`
 
+#### Vala
+`valac OwO.vala && ./OwO`
+
 #### VBScript
 `cscript OwO.vbs`
 
