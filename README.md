@@ -37,7 +37,7 @@ __        ___           _    _        _   _     _
 `dotnet restore && dotnet run`
 
 #### CoffeeScript
-`coffee -c OwO.coffee && node OwO.js`
+`coffee OwO.coffee`
 
 #### D
 `dmd OwO.d && ./OwO`
