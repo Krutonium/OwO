@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 echo "                 *Notices Bulge*"
 echo "__        ___           _    _        _   _     _      "
 echo "\\ \\      / / |__   __ _| |_ ( ) ___  | |_| |__ (_) ___ "
