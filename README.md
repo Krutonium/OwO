@@ -84,9 +84,6 @@ __        ___           _    _        _   _     _
 #### Malbolge
 `malbolge OwO.mal`
 
-#### ModiScript
-`MODI OwO.CHAI`
-
 #### Nim
 `nim compile --run OwO.nim` or `nimble run`
 
