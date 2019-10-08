@@ -36,6 +36,9 @@ __        ___           _    _        _   _     _
 #### C#/.NET
 `dotnet restore && dotnet run`
 
+#### Crystal
+`crystal OwO.cr`
+
 #### D
 `dmd OwO.d && ./OwO`
 
