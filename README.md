@@ -45,6 +45,9 @@ __        ___           _    _        _   _     _
 #### Dart
 `dart OwO.dart`
 
+#### Docker
+`docker build . -t owo && docker run owo`
+
 #### Elisp
 `emacs -q --script OwO.el`
 
