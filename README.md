@@ -54,6 +54,9 @@ __        ___           _    _        _   _     _
 #### Elisp
 `emacs -q --script OwO.el`
 
+#### Elixir
+`elixir Elixir.exs`
+
 #### Emojicode
 `emojicodec OwO.emojic && ./OwO`
 
