@@ -39,6 +39,9 @@ __        ___           _    _        _   _     _
 #### CoffeeScript
 `coffee OwO.coffee`
 
+#### Crystal
+`crystal OwO.cr`
+
 #### D
 `dmd OwO.d && ./OwO`
 
@@ -50,6 +53,9 @@ __        ___           _    _        _   _     _
 
 #### Emojicode
 `emojicodec OwO.emojic && ./OwO`
+
+#### Fetlang
+`fetlang OwO.fet`
 
 #### Go
 `go run OwO.go`
@@ -130,6 +136,9 @@ Find an interpreter on [here](https://codegolf.stackexchange.com/questions/37014
 #### V
 `v run OwO.v`
 
+#### Vala
+`valac OwO.vala && ./OwO`
+
 #### VBScript
 `cscript OwO.vbs`
 
@@ -139,3 +148,9 @@ Find an interpreter on [here](https://codegolf.stackexchange.com/questions/37014
 #### WhiteSpaces
 `Replace space with 1 and tab with 0`
 `Then decode binary`
+
+#### Terraform
+`terraform init && terraform apply`
+
+#### Zsh
+`chmod +x OwO.zsh && ./OwO.zsh`
