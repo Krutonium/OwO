@@ -36,6 +36,9 @@ __        ___           _    _        _   _     _
 #### C#/.NET
 `dotnet restore && dotnet run`
 
+#### CoffeeScript
+`coffee OwO.coffee`
+
 #### Crystal
 `crystal OwO.cr`
 
