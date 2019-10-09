@@ -51,6 +51,9 @@ __        ___           _    _        _   _     _
 #### Emojicode
 `emojicodec OwO.emojic && ./OwO`
 
+#### Fetlang
+`fetlang OwO.fet`
+
 #### Go
 `go run OwO.go`
 
@@ -86,9 +89,6 @@ __        ___           _    _        _   _     _
 
 #### Malbolge
 `malbolge OwO.mal`
-
-#### ModiScript
-`MODI OwO.CHAI`
 
 #### Nim
 `nim compile --run OwO.nim` or `nimble run`
