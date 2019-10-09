@@ -87,6 +87,9 @@ __        ___           _    _        _   _     _
 #### Lua
 `lua OwO.lua`
 
+#### Makefile
+`make`
+
 #### Malbolge
 `malbolge OwO.mal`
 
