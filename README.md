@@ -146,5 +146,8 @@ Find an interpreter on [here](https://codegolf.stackexchange.com/questions/37014
 `Replace space with 1 and tab with 0`
 `Then decode binary`
 
+#### Terraform
+`terraform init && terraform apply`
+
 #### Zsh
 `chmod +x OwO.zsh && ./OwO.zsh`
