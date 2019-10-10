@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <style>
+			*{font-family: monospace; text-align: center; font-size: xx-large;}
+      tspan{white-space : pre;}
+			body{margin-top: 15%;}
+		</style>
+  <text text-anchor="middle" x="50%" y="30%">
+    *Notices Bulge*
+  </text>
+  <text x="10%" y="40%">
+     <tspan x="20%" dy="1.2em">__        ___           _    _        _   _     _      </tspan>
+     <tspan x="20%" dy="1.2em">\ \      / / |__   __ _| |_ ( ) ___  | |_| |__ (_) ___ </tspan>
+     <tspan x="20%" dy="1.2em"> \ \ /\ / /| '_ \ / _\`| __|// / __| | __| '_ \| |/ __|</tspan>
+     <tspan x="20%" dy="1.2em">  \ V  V / | | | | (_| | |_    \__ \ | |_| | | | |\__ \</tspan>
+     <tspan x="20%" dy="1.2em">   \_/\_/  |_| |_|\__,_|\__|   |___/ \___|_| |_|_|/___/</tspan>
+  </text>
+</svg>
