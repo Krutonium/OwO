@@ -70,6 +70,9 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 #### Fetlang
 `fetlang OwO.fet`
 
+#### Fish
+`chmod +x OwO.fish && ./OwO.fish`
+
 #### Go
 `go run OwO.go`
 
