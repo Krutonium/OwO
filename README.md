@@ -88,6 +88,9 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 #### JScript
 `cscript OwO.js`
 
+###Julia
+`julia OwO.jl`
+
 #### Kotlin
 `kotlinc OwO.kt -include-runtime -d OwO.jar && java -jar OwO.jar`
 
