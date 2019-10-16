@@ -27,6 +27,9 @@ __        ___           _    _        _   _     _
 #### Batch
 `CALL OwO.bat`
 
+#### Boo
+`booi OwO.boo`
+
 #### Brainfuck
 ```bash
 npm install --g node-brainfuck-compiler
