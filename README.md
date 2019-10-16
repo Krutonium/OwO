@@ -24,8 +24,6 @@ __        ___           _    _        _   _     _
 #### Bash
 `chmod +x OwO.sh && ./OwO.sh`
 
-
-
 #### Batch
 `CALL OwO.bat`
 
@@ -74,8 +72,11 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 
 #### Erlang
 `$erl`
+
 `1> c(owo).`
+
 `2> owo:owoPrint().`
+
 
 #### Fetlang
 `fetlang OwO.fet`
