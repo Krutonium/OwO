@@ -179,3 +179,17 @@ Find an interpreter on [here](https://codegolf.stackexchange.com/questions/37014
 
 #### Zsh
 `chmod +x OwO.zsh && ./OwO.zsh`
+
+### What's This?
+
+```
+ krutonium@Arch  ~  OwO
+                 *Notices Bulge*
+__        ___           _    _        _   _     _
+\ \      / / |__   __ _| |_ ( ) ___  | |_| |__ (_) ___
+ \ \ /\ / /| '_ \ / _\`| __|// / __| | __| '_ \| |/ __|
+  \ V  V / | | | | (_| | |_    \__ \ | |_| | | | |\__ \
+   \_/\_/  |_| |_|\__,_|\__|   |___/ \___|_| |_|_|/___/
+```
+
+---
