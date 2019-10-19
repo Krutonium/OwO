@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:vcalendar_hacktoberfest_2019_OwO
+DTSTAMP:20191019T213000Z
+ORGANIZER;CN=doczkal
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20191001
+DTEND;VALUE=DATE:20191101
+SUMMARY:OwO.ics
+DESCRIPTION:OwO.ics
+X-ALT-DESC;FMTTYPE=text/html:
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD HTML 3.2//EN"">
+<HTML>
+    <HEAD>
+  <style>
+   *{font-family: monospace; text-align: center; font-size: xx-large;}
+   body{margin-top: 15%;}
+  </style>
+    </HEAD>
+    <BODY>
+  <p>
+   *Notices Bulge*
+  </p>
+  <p>
+            __&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;___&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+            \&nbsp;\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;|__&nbsp;&nbsp;&nbsp;__&nbsp;_|&nbsp;|_&nbsp;(&nbsp;)&nbsp;___&nbsp;&nbsp;|&nbsp;|_|&nbsp;|__&nbsp;(_)&nbsp;___&nbsp;<br />
+            &nbsp;\&nbsp;\&nbsp;/\&nbsp;/&nbsp;/|&nbsp;'_&nbsp;\&nbsp;/&nbsp;_\`|&nbsp;__|//&nbsp;/&nbsp;__|&nbsp;|&nbsp;__|&nbsp;'_&nbsp;\|&nbsp;|/&nbsp;__|<br />
+            &nbsp;&nbsp;\&nbsp;V&nbsp;&nbsp;V&nbsp;/&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;(_|&nbsp;|&nbsp;|_&nbsp;&nbsp;&nbsp;&nbsp;\__&nbsp;\&nbsp;|&nbsp;|_|&nbsp;|&nbsp;|&nbsp;|&nbsp;|\__&nbsp;\<br />
+            &nbsp;&nbsp;&nbsp;\_/\_/&nbsp;&nbsp;|_|&nbsp;|_|\__,_|\__|&nbsp;&nbsp;&nbsp;|___/&nbsp;\___|_|&nbsp;|_|_|/___/<br />
+  </p>
+    </BODY>
+</HTML>
+END:VEVENT
+END:VCALENDAR
