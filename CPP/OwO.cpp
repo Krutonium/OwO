@@ -1,3 +1,5 @@
+// You print an elegantly typed "What's this" on the screen.
+
 #include <iostream>
 
 int main(int argc, char *argv[]) {
