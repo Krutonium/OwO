@@ -102,7 +102,7 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 #### Java
 `java OwO.java`
 
-#### JavaScript (NodeJS)
+#### JavaScript (NodeJS) and JSFuck
 `node OwO.js`
 
 #### JScript
