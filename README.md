@@ -18,6 +18,9 @@ __        ___           _    _        _   _     _
 
 ### How To Run
 
+#### Ada
+`gnatmake OwO.adb && ./OwO`
+
 #### BASIC
 `fbc OwO.bas`
 
