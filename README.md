@@ -70,6 +70,14 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 #### Emojicode
 `emojicodec OwO.emojic && ./OwO`
 
+#### Erlang
+`$erl`
+
+`1> c(owo).`
+
+`2> owo:owoPrint().`
+
+
 #### Fetlang
 `fetlang OwO.fet`
 
