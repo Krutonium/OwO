@@ -30,6 +30,9 @@ __        ___           _    _        _   _     _
 #### Boo
 `booi OwO.boo`
 
+#### PHP
+`booi OwO.boo`
+
 #### Brainfuck
 ```bash
 npm install --g node-brainfuck-compiler
