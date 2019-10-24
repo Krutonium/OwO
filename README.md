@@ -97,7 +97,7 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 `runghc OwO.hs`
 
 #### HTML
-`firefox OwO.html`
+`google chrome OwO.html`
 
 #### Java
 `java OwO.java`
