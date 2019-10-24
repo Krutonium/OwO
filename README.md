@@ -18,6 +18,9 @@ __        ___           _    _        _   _     _
 
 ### How To Run
 
+### Agda
+`agda --compile hello-world.agda`
+
 #### Ada
 `gnatmake OwO.adb && ./OwO`
 
