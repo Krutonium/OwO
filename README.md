@@ -144,6 +144,9 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 #### PHP
 `php OwO.php`
 
+#### Pascal
+`fpc OwO.pas`
+
 #### PowerShell
 `powershell OwO.ps1`
 
