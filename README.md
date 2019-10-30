@@ -111,6 +111,9 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 #### Julia
 `julia OwO.jl`
 
+#### Jython
+`java OwO.java` requiers [Jython API](https://www.jython.org/)
+
 #### Kotlin
 `kotlinc OwO.kt -include-runtime -d OwO.jar && java -jar OwO.jar`
 
