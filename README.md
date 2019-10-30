@@ -163,6 +163,9 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 #### Slashes
 Find an interpreter on [here](https://codegolf.stackexchange.com/questions/37014/interpret-pronounced-slashes) and run it
 
+#### SQLite
+Find a DB viewing software [here](https://sqlitebrowser.org/dl/ "SQLite – DB Browser") and open it
+
 #### Swift
 `swift OwO.swift`
 
