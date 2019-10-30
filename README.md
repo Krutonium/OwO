@@ -100,7 +100,7 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 `runghc OwO.hs`
 
 #### HTML
-`google chrome OwO.html`
+`firefox OwO.html`
 
 #### Java
 `java OwO.java`
