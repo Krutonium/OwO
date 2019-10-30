@@ -18,6 +18,9 @@ __        ___           _    _        _   _     _
 
 ### How To Run
 
+#### ASCII
+[Try it online!](https://www.rapidtables.com/convert/number/binary-to-ascii.html "ASCII – Try It Online")
+
 #### Ada
 `gnatmake OwO.adb && ./OwO`
 
