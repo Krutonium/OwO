@@ -43,11 +43,6 @@ __        ___           _    _        _   _     _
 </details>
 
 <details>
-    <summary>**PHP**</summary>
-    <p>`booi OwO.boo`</p>
-</details>
-
-<details>
     <summary>**Brainfuck**</summary>
     
     npm install --g node-brainfuck-compiler
@@ -218,6 +213,11 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 <details>
     <summary>**PHP**</summary>
     <p>`php OwO.php`</p>
+</details>
+
+<details>
+    <summary>**Pascal**</summary>
+    <p>`fpc OwO.pas`</p>
 </details>
 
 <details>
