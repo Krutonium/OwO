@@ -21,6 +21,9 @@ __        ___           _    _        _   _     _
 #### Ada
 `gnatmake OwO.adb && ./OwO`
 
+#### Axe Parser
+`Asm(prgmOWO)` (Send OWO.8XP to your calculator first)
+
 #### BASIC
 `fbc OwO.bas`
 
