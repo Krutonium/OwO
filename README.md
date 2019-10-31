@@ -87,6 +87,12 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 #### Fish
 `chmod +x OwO.fish && ./OwO.fish`
 
+#### Flask
+```bash
+pip install flask
+python Flask.py
+```
+
 #### Go
 `go run OwO.go`
 
