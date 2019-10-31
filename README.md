@@ -160,6 +160,8 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 #### Rust
 `cargo run`
 
+#### SansScript
+'[here](https://www.youtube.com/watch?v=a10VVkZPUd0)
 #### Slashes
 Find an interpreter on [here](https://codegolf.stackexchange.com/questions/37014/interpret-pronounced-slashes) and run it
 
