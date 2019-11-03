@@ -241,7 +241,7 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 
 <details>
     <summary>**Red**</summary>
-    <p>`red -c OwO.red`</p>
+    <p>`red -c OwO.red` and then run the compiled executable from a command prompt/terminal.</p>
 </details>
 
 <details>
