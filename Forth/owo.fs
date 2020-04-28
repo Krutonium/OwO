@@ -1,5 +1,5 @@
 : owo
-17 spaces ." *Notices Bulge*" cr
+cr 17 spaces ." *Notices Bulge*" cr
 ." __        ___           _    _        _   _     _      " cr
 ." \ \      / / |__   __ _| |_ ( ) ___  | |_| |__ (_) ___ " cr
 ."  \ \ /\ / /| '_ \ / _\`| __|// / __| | __| '_ \| |/ __|" cr
