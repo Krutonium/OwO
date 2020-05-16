@@ -126,6 +126,11 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 </details>
 
 <details>
+    <summary>**Forth**</summary>
+    <p>`gforth owo.fs -e bye`</p>
+</details>
+
+<details>
     <summary>**Go**</summary>
     <p>`go run OwO.go`</p>
 </details>
