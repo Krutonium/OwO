@@ -18,6 +18,11 @@ __        ___           _    _        _   _     _
 
 ### How To Run
 <details>
+    <summary>**05AB1E**</summary>    
+    [Use the online interpreter](https://tio.run/#05ab1e)
+</details>
+
+<details>
     <summary>**Ada**</summary>
     <p>`gnatmake OwO.adb && ./OwO`</p>
 </details>
