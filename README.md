@@ -116,6 +116,12 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 </details>
 
 <details>
+    <summary>**Factor**</summary>    
+    [Download and compile the Java Factor interpreter](https://github.com/bangyen/factor-lang)
+    <p>`java Factor OwO.fact`</p>
+</details>
+
+<details>
     <summary>**Fetlang**</summary>
     <p>`fetlang OwO.fet`</p>
 </details>
