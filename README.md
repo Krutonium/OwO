@@ -295,6 +295,16 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
 </details>
 
 <details>
+	<summary>**Wenyan**</summary>
+	`wenyan ./OwO.wy`
+	<br>
+	`create an image that resembles pages from historical printed books`
+	<br>
+	`wenyan --render ./OwO.wy`
+</details>
+	
+
+<details>
     <summary>**WhiteSpaces**</summary>
     `Replace space with 1 and tab with 0`
     <br>
