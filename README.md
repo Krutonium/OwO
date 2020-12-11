@@ -1,5 +1,7 @@
 # OwO
 
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Krutonium/OwO) [![GitHub License](https://img.shields.io/github/license/Krutonium/OwO)](https://github.com/Krutonium/OwO/blob/master/LICENSE)
+
 ## _Notices Bulge_
 
 ### What's This?
