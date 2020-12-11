@@ -19,6 +19,7 @@ __        ___           _    _        _   _     _
 ---
 
 ### How To Run
+=======
 <details>
     <summary>**05AB1E**</summary>    
     [Use the online interpreter](https://tio.run/#05ab1e)
@@ -27,6 +28,11 @@ __        ___           _    _        _   _     _
 <details>
     <summary>**Ada**</summary>
     <p>`gnatmake OwO.adb && ./OwO`</p>
+</details>
+
+<details>
+    <summary>**Axe Parser**</summary>
+    <p>`Asm(prgmOWO)` (Send OWO.8XP to your calculator first)</p>
 </details>
 
 <details>
@@ -53,8 +59,8 @@ __        ___           _    _        _   _     _
     <summary>**Brainfuck**</summary>
     
     npm install --g node-brainfuck-compiler
-	brainfuck-compiler -i BF/OwO.bf -o BF/OwO-compiled.js && node Brainfuck/OwO-compiled.js
-Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6iiHghxC2oKyBi1/XqKF8yw2ICS1kLInuX5zeI58TjL3@rko2l28MxyxmPBzlBXWf4OqRBldR@GSVH@7M@FOFRpeOocQsG@hZKm4vMCu7sdvBQ1JHEOvM4hE6tAoOAQ54VIGYfHJ8hywXjJWftXiHvOykucMFCe8JWJFErGs@JcHVqDoF1HEgVmPbxGdLwCuyghRBlLs3ZH2r3cWmW3zL5VUGulBfKoz9IlsGiB1hgVHSFR9WmeSh8hUvqGDtJg4kisgNA59dBiqHcqfEq3kwduPiKdsC4pQ3crN9ATpQJwyQ1YZ2OtJinE2UMKJJ4iYbpzNyAc3Ftd04xFxF1Csv3y7R6zfI/yL7taeffvSCV3kfiw3P1Vrhq75Li8/dt0WbgaI5KPCxe0d7e1MAb2AhvrCmbDe3vCptrOKuLsjU3sUfflYsP7sNwtsEjjijStYYCiXBGMq6ucRYqC@VkjfTy6DUPFm9itcsfjux59ZjDRUdZGc2Dhof7NQLqVfEVMR5vfYSdNkqI7vnc3QxLJcYfcdjD7I7MMzJzp6C35OXh4uVNHvJMWov8Q/4wGzZE@DZg0Hh1N8ws "brainfuck – Try It Online")
+	  brainfuck-compiler -i BF/OwO.bf -o BF/OwO-compiled.js && node Brainfuck/OwO-compiled.js
+ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6iiHghxC2oKyBi1/XqKF8yw2ICS1kLInuX5zeI58TjL3@rko2l28MxyxmPBzlBXWf4OqRBldR@GSVH@7M@FOFRpeOocQsG@hZKm4vMCu7sdvBQ1JHEOvM4hE6tAoOAQ54VIGYfHJ8hywXjJWftXiHvOykucMFCe8JWJFErGs@JcHVqDoF1HEgVmPbxGdLwCuyghRBlLs3ZH2r3cWmW3zL5VUGulBfKoz9IlsGiB1hgVHSFR9WmeSh8hUvqGDtJg4kisgNA59dBiqHcqfEq3kwduPiKdsC4pQ3crN9ATpQJwyQ1YZ2OtJinE2UMKJJ4iYbpzNyAc3Ftd04xFxF1Csv3y7R6zfI/yL7taeffvSCV3kfiw3P1Vrhq75Li8/dt0WbgaI5KPCxe0d7e1MAb2AhvrCmbDe3vCptrOKuLsjU3sUfflYsP7sNwtsEjjijStYYCiXBGMq6ucRYqC@VkjfTy6DUPFm9itcsfjux59ZjDRUdZGc2Dhof7NQLqVfEVMR5vfYSdNkqI7vnc3QxLJcYfcdjD7I7MMzJzp6C35OXh4uVNHvJMWov8Q/4wGzZE@DZg0Hh1N8ws "brainfuck – Try It Online")
 </details>
 
 <details>

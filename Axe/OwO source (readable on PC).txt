@@ -1,0 +1,58 @@
+.OWO ...I might be furry trash.
+0→O
+DiagnosticOff
+
+.start coords
+14→H
+30→V
+
+.tile data
+S([E3A2A29455554949]
+S([8F8B8B5355542425]
+S([00000000E314C92A]
+S([1C141414B7505794]
+S([30484850BEC1DE41]
+
+100→O
+
+S([2A2A221C00000000]
+S([ADAD8D7700000000]
+S([2A292C3B00000000]
+S([941358B700000000]
+S([3DBDC1BE00000000]
+
+40→O
+
+S([E3A2A2A2BE82BEA2]
+S([848A8480E51A4AAA]
+S([00000000F008F008]
+
+140→O
+S([A29E423F00000000]
+S([ABABAABF00000000]
+S([E8E808F000000000]
+
+
+
+.draw everything
+Fix 0
+Fix 5
+ClrHome
+ClrDraw
+Text(19,8,"*Notices Bulge*")
+
+
+For(X,0,7)
+Pt-On(8*X+1+(3*(X≥5))+H,V,L₁+(X*8))
+Pt-On(8*X+1+(3*(X≥5))+H,V+8,L₁+(X*8)+100)
+End
+DispGraph
+Pause 5000
+
+Fix 4
+Return
+
+Lbl S
+expr(r₁,L₁+O,8)
+O+8→O
+Return
