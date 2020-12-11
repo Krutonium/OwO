@@ -18,6 +18,11 @@ __        ___           _    _        _   _     _
 
 ### How To Run
 <details>
+    <summary>**05AB1E**</summary>    
+    [Use the online interpreter](https://tio.run/#05ab1e)
+</details>
+
+<details>
     <summary>**Ada**</summary>
     <p>`gnatmake OwO.adb && ./OwO`</p>
 </details>
@@ -113,6 +118,12 @@ Alternatively, [Try it online!](https://tio.run/##vVTJboMwEL33K0bKJRGyuVcVhx7ab6
     1> c(owo).
 
     2> owo:owoPrint().
+</details>
+
+<details>
+    <summary>**Factor**</summary>    
+    [Download and compile the Java Factor interpreter](https://github.com/bangyen/factor-lang)
+    <p>`java Factor OwO.fact`</p>
 </details>
 
 <details>
