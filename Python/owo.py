@@ -1,7 +1,9 @@
 # this is an if-else comparator 
+# Code Updated By Pndaboi
+
 if __name__ == "__main__":
-    print("""                 *Notices Bulge*
-__        ___           _    _        _   _     _      
+  print("                        *Notices Bulge*")
+  print("""__        ___           _    _        _   _     _      
 \ \      / / |__   __ _| |_ ( ) ___  | |_| |__ (_) ___ 
  \ \ /\ / /| '_ \ / _\`| __|// / __| | __| '_ \| |/ __|
   \ V  V / | | | | (_| | |_    \__ \ | |_| | | | |\__ \\
