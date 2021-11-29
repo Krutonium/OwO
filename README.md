@@ -251,7 +251,7 @@ __        ___           _    _        _   _     _
 
 <details>
     <summary>**Python (v2.x and v3.x respectively)**</summary>
-    <p>`python main.py` or `python3 main.py`</p>
+    <p>`python owo.py` or `python3 owo.py`</p>
 </details>
 
 <details>
