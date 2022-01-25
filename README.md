@@ -47,7 +47,7 @@ __        ___           _    _        _   _     _
 
 <details>
     <summary>**Batch**</summary>
-    <p>`CALL OwO.bat`</p>
+    <p>`CALL OwO.bat` or just run the program</p>
 </details>
 
 <details>
